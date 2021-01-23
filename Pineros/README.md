@@ -7,7 +7,7 @@ _Estudiante de ingenieria de sistemas con enfasis en seguridad._
 Ingeniero de Sistemas con interés en el área de seguridad informática y redes.
 
 Conocimientos en\ 
-redes\ 
+redes\
 ethical hacking\
 ciberseguridad\
 desarrollo de software\
