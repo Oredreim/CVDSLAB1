@@ -4,8 +4,12 @@
 ## Informacion Basica
 _Estudiante de ingenieria de sistemas con enfasis en seguridad._
 ## Perfil
-Ingeniero de Sistemas con interés en el área de seguridad informática y redes. Conocimientos en redes, ethical hacking,
-ciberseguridad y desarrollo de software. Con experiencia en el uso de herramientas como Java, Python, SQL, Github,
+Ingeniero de Sistemas con interés en el área de seguridad informática y redes. 
+Conocimientos en 
+redes\ ethical hacking\
+ciberseguridad
+desarrollo de software
+Con experiencia en el uso de herramientas como Java, Python, SQL, Github,
 Kali Linux, Parrot.
 ## Plan de estudio
 - CVDS
