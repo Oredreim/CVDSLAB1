@@ -1,8 +1,8 @@
 # CVDSLAB1
 ## Nombre
-Cristian Camilo Pi¤eros Arevalo.
+Cristian Camilo PiÂ¤eros Arevalo.
 ## Informacion Basica
 Estudiante de ingenieria de sistemas con enfasis en seguridad.
 ## Plan de estudio
--CVDS
--MCSW-M1
+- CVDS
+- MCSW-M1
