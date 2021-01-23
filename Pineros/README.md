@@ -4,6 +4,7 @@
 ## Informacion Basica
 _Estudiante de ingenieria de sistemas con enfasis en seguridad._
 ## Perfil
+![images](perfil.jpg)
 Ingeniero de Sistemas con interés en el área de seguridad informática y redes.
 Conocimientos en
 
