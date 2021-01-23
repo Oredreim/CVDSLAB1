@@ -1,6 +1,6 @@
 # CVDSLAB1
 ## Nombre
-Cristian Camilo Pi¤eros Arevalo.
+Cristian Camilo Pineros Arevalo.
 ## Informacion Basica
 Estudiante de ingenieria de sistemas con enfasis en seguridad.
 ## Plan de estudio
