@@ -16,7 +16,8 @@ numeros:
 
 parrafo sin ningun sentido askdjklasjdklajsdlkajsdlk
 
-~~~main(){
+![images](ppp.jpg)~~main(){
+~~~
 	int nums[6];
     int i,numero,mcd,residuo;
     for (i = 1; i <= 5; i++) {
@@ -38,6 +39,6 @@ parrafo sin ningun sentido askdjklasjdklajsdlkajsdlk
     printf("%d\n",suma);
 }~~~
 
-![images](ppp.jpg)
+
 
 
