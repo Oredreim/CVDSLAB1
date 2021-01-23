@@ -1,7 +1,7 @@
 # juan sebastian garcia 
 ## 7mo semestre 
 
-*ingenieria de sistemas*  
+**ingenieria de sistemas**  
 _20 años_
 
 Gustos: 
