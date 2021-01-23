@@ -1,7 +1,7 @@
 ----------------------- libro.txt -----------------------
 EL LIBRO MAS FAMOSO DEL MUNDO
 
-AUTORES: Cristian-Juan.
+AUTORES: Cristian piñeros-Juan sebastian garcia.
 
 
 
