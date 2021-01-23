@@ -16,8 +16,9 @@ numeros:
 
 parrafo sin ningun sentido askdjklasjdklajsdlkajsdlk
 
-![images](ppp.jpg)~~main(){
-~~~
+![images](ppp.jpg)  
+~~~main(){
+
 	int nums[6];
     int i,numero,mcd,residuo;
     for (i = 1; i <= 5; i++) {
