@@ -30,16 +30,12 @@ parrafo sin ningun sentido askdjklasjdklajsdlkajsdlk
 	            mcd = numero;
 	            numero = residuo;
             } while (residuo != 0);
-        }
-    }
-    
-    printf("%d\n",mcd);
-    nums[0] = mcd;
-    int suma = 0 ;
 	for (i = 1 ; i<=6; i++ ){
 	    printf("%d\n",nums[i]/nums[0]);
 	    suma += nums[i]/nums[0]; 
 	    
 	}
     printf("%d\n",suma);
-}~~~~
+}~~~
+
+
