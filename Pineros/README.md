@@ -5,7 +5,6 @@
 _Estudiante de ingenieria de sistemas con enfasis en seguridad._
 ## Perfil
 Ingeniero de Sistemas con interés en el área de seguridad informática y redes.
-
 Conocimientos en\ 
 redes\
 ethical hacking\
