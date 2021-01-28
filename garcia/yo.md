@@ -22,7 +22,8 @@ Entre las decenas de variantes del nuevo coronavirus SARS-CoV-2 que se han ident
 ![images](ppp.jpg)  
 
 ## codigo 
-` main(){
+```
+main(){
 
 	int nums[6];
     int i,numero,mcd,residuo;
@@ -43,7 +44,7 @@ Entre las decenas de variantes del nuevo coronavirus SARS-CoV-2 que se han ident
 	    
 	}
     printf("%d\n",suma);
-} `
+} ```
 
 
 
