@@ -48,8 +48,8 @@ main(){
 ```
 
 # PARTE III. - GIT BRANCHING
-![images](captura.jpg)
-![images](captura1.jpg)
+![images](captura.png)
+![images](captura1.png)
 
 
 
