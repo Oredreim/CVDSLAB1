@@ -14,12 +14,14 @@ numeros:
 2.  segundo 
 3.  tercero   
 
-# parrafo 
+## parrafo 
 Entre las decenas de variantes del nuevo coronavirus SARS-CoV-2 que se han identificado en el mundo, en medio de los procesos normales de mutación que sufren los virus, está la P.1 (B.1.1.28.1), que fue identificada por primera vez en diciembre en el estado de Amazonas en Brasil.
-# Link
+## Link
 <https://www.eltiempo.com/salud/variante-brasilera-del-sars-cov-2-que-esta-cerca-de-colombia-lo-que-se-sabe-de-ella-563212>
-
+## imagen
 ![images](ppp.jpg)  
+
+## codigo 
 ~~~main(){
 
 	int nums[6];
